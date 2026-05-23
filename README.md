@@ -1,4 +1,4 @@
-# Flolo Niri Window Animations
+# phrolova Niri Window Animations
 
 这是一组给 Niri 使用的窗口开关动画，风格偏「柔和、花海、薰衣草、淡粉高光」。
 
