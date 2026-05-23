@@ -49,3 +49,6 @@ window-close = lavender petal dissolve
 这样窗口出现时不会显脏，窗口消失时又有足够的主题感。
 
 [View config.kdl⬅️](./config.kdl)
+
+# click to preview! ⬇️
+[![](https://i0.hdslb.com/bfs/archive/548c747ddadf2bb5b9cf9a4b0735c4c0ee3624b6.jpg)](https://player.bilibili.com/player.html?isOutside=true&aid=116622018747183&bvid=BV1tcGv6kEMY&cid=38545853001&p=1)
